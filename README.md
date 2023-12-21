@@ -1,5 +1,5 @@
 **How I made it**
-Step 0: Make a folder for the project
+Step 0: Make a folder for the project 
 Step 1: Add the tsc configaration files using "tsc --init"
 Step 2: Installing the dependencies of project which are inquirer and @types/inquirer 
 Step 3: Require the ibrary we installed 
